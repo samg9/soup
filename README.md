@@ -1,6 +1,10 @@
 # Soup
 
-**TODO: Add description**
+## Usage
+Get dependencies:
+`mix deps.get`
+Build executable as specified in macro in file mix.exs 
+`mix escript.build`
 
 ## Installation
 
